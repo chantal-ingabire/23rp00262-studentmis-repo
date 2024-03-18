@@ -8,8 +8,9 @@
 <body>
     <?php
     echo " Welcome to Student MIS";
-    <a href="registration.php?id=<?=$data['id']?> " id="fab">Registration
+    
     
     ?>
+    <a href="./USER REGISTRATION.php">USER REGISTRATION</a>
 </body>
 </html>
